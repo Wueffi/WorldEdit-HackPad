@@ -20,10 +20,10 @@ Assembled
 
 ## PCB
 Schematic
-<img width="1290" height="1107" alt="image" src="https://github.com/user-attachments/assets/fb52af3d-4375-4747-9637-fd13ee27a504" />
+<img width="1409" height="1138" alt="image" src="https://github.com/user-attachments/assets/0024d1cc-66b7-4d56-8300-523a1ab9981a" />
 
 PCB
-<img width="1585" height="1577" alt="image" src="https://github.com/user-attachments/assets/d0e998be-b9ac-4843-b9a3-994d7a2c943a" />
+<img width="1078" height="1081" alt="image" src="https://github.com/user-attachments/assets/ed81a19c-ce5f-4a9f-aa68-9ec77f9927b2" />
 
 I have decided to not use diodes, since I want to only press one button at a time and thus not have to care about ghosting. It also is easier to wire, fit and looks more aesthetic.
 
